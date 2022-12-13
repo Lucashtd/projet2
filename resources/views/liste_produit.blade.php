@@ -26,7 +26,7 @@
         <table class="" style="margin-top: 5%;">
             <thead>
                 <tr>
-                    <th class="titre-table">Nom du Produit</th>
+                    <th class="table-titre">Nom du Produit</th>
                     <th></th>
                     <th></th>
                     <th></th>
