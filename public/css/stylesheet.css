@@ -18,7 +18,7 @@ table, tr {
     text-align: center;
 }
 
-td {
+th, td {
     color: whitesmoke;
     padding: 10px;
 }
@@ -26,6 +26,11 @@ td {
 input {
     background-color: rgb(95, 95, 95);
     color: whitesmoke;
+}
+
+.titre-table {
+    color: whitesmoke;
+    font-weight: bolder;
 }
 
 .form {
